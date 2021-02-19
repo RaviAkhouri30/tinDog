@@ -117,3 +117,8 @@ body {
 .carousel-item {
   padding: 7% 15%;
 }
+
+/* Pricing Section */
+#pricing {
+  padding: 15% 7%;
+}
